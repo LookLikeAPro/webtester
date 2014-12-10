@@ -1,0 +1,6 @@
+/Users/jerry/Desktop/food/food/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jerry/Desktop/food/food/obj/x86/Release/food.gtk-gui.gui.stetic
+/Users/jerry/Desktop/food/food/bin/Release/food.exe.mdb
+/Users/jerry/Desktop/food/food/bin/Release/food.exe
+/Users/jerry/Desktop/food/food/obj/x86/Release/food.exe
+/Users/jerry/Desktop/food/food/obj/x86/Release/food.exe.mdb
